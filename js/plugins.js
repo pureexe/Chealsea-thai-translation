@@ -6,5 +6,5 @@ var $plugins =
 {"name":"DisableMouse","status":true,"description":"Disables mouse clicks.","parameters":{}},
 {"name":"Foreground","status":true,"description":"display foreground tiling sprite","parameters":{}},
 {"name":"TitleCommandPosition","status":false,"description":"Changes the position of the title command window.","parameters":{"Offset X":"-200","Offset Y":"-50","Width":"240","Background":"0"}},
-{"name":"Fullscreen","status":false,"description":"Starts the game in fullscreen","parameters":{}}
+{"name":"Fullscreen","status":true,"description":"Starts the game in fullscreen","parameters":{}}
 ];
