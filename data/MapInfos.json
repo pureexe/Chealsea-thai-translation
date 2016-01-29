@@ -7,8 +7,8 @@ null,
 {"id":5,"expanded":false,"name":"Bus Station","order":6,"parentId":1,"scrollX":534,"scrollY":405},
 {"id":6,"expanded":true,"name":"Theater","order":7,"parentId":1,"scrollX":534,"scrollY":319},
 {"id":7,"expanded":true,"name":"Theater - Inside","order":8,"parentId":6,"scrollX":534,"scrollY":535},
-{"id":8,"expanded":true,"name":"School","order":11,"parentId":1,"scrollX":534,"scrollY":551},
-{"id":9,"expanded":true,"name":"School - Inside","order":12,"parentId":8,"scrollX":570,"scrollY":951},
+{"id":8,"expanded":true,"name":"School","order":11,"parentId":1,"scrollX":790,"scrollY":951},
+{"id":9,"expanded":true,"name":"School - Inside","order":12,"parentId":8,"scrollX":570,"scrollY":1383},
 {"id":10,"expanded":false,"name":"School - Backyard","order":21,"parentId":8,"scrollX":534,"scrollY":305},
 {"id":11,"expanded":false,"name":"Library","order":22,"parentId":1,"scrollX":534,"scrollY":319},
 {"id":12,"expanded":false,"name":"Library - Inside","order":23,"parentId":11,"scrollX":816,"scrollY":479},
@@ -43,5 +43,5 @@ null,
 {"id":41,"expanded":true,"name":"Church Grounds","order":43,"parentId":21,"scrollX":534,"scrollY":797},
 {"id":42,"expanded":true,"name":"School - Classroom 1B","order":19,"parentId":9,"scrollX":534,"scrollY":305},
 {"id":43,"expanded":false,"name":"School - Classroom 2A","order":20,"parentId":9,"scrollX":534,"scrollY":305},
-{"id":44,"expanded":true,"name":"Church Hall","order":44,"parentId":21,"scrollX":534,"scrollY":297}
+{"id":44,"expanded":true,"name":"Church Hall","order":44,"parentId":21,"scrollX":534,"scrollY":327}
 ]
