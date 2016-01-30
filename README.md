@@ -11,6 +11,7 @@
 | พัฒนาด้วย      | RPG Maker MV            |
 | พัฒนาโดย      | YureiDarling            |
 | เว็บไซต์        | chelsea-game.tumblr.com |
+| แปลโดย       | pureexe                 |
 
 **ดาวน์โหลด:** https://github.com/pureexe/Chelsea-thai-translation/releases
 
