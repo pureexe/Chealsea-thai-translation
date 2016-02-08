@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Southern Hub","order":5,"parentId":0,"scrollX":534,"scrollY":1143},
+{"id":1,"expanded":true,"name":"Southern Hub","order":5,"parentId":0,"scrollX":534,"scrollY":1143.5},
 {"id":2,"expanded":true,"name":"Northern Hub","order":25,"parentId":0,"scrollX":534,"scrollY":415},
 {"id":3,"expanded":false,"name":"Church - Outside","order":43,"parentId":21,"scrollX":534,"scrollY":305},
 {"id":4,"expanded":false,"name":"System Screens","order":1,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":5,"expanded":false,"name":"Bus Station","order":6,"parentId":1,"scrollX":515,"scrollY":683},
+{"id":5,"expanded":false,"name":"Bus Station","order":6,"parentId":1,"scrollX":515,"scrollY":1263.5},
 {"id":6,"expanded":false,"name":"Theater","order":7,"parentId":1,"scrollX":515,"scrollY":335},
 {"id":7,"expanded":false,"name":"Theater - Inside","order":8,"parentId":6,"scrollX":534,"scrollY":655},
 {"id":8,"expanded":false,"name":"School","order":11,"parentId":1,"scrollX":570,"scrollY":951},
