@@ -1,5 +1,5 @@
 # Chelsea แปลไทย
-![Chelsea Logo](http://www.mx7.com/i/bd4/5nrISC.png)
+![Chelsea Logo](https://i.imgur.com/ZnknaeQ.png)  
 [Chelsea](http://rpgmaker.net/games/8352/) translate to Thai language
 
 | ข้อมูล          | เนื้อหา                  |
